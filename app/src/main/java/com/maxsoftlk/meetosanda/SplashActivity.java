@@ -1,4 +1,4 @@
-package com.maxsoftlk.osandaportfolio;
+package com.maxsoftlk.meetosanda;
 
 import android.content.Intent;
 import android.os.Bundle;

@@ -1,4 +1,4 @@
-package com.maxsoftlk.osandaportfolio;
+package com.maxsoftlk.meetosanda;
 
 import org.junit.Test;
 

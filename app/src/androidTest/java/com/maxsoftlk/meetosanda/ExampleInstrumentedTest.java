@@ -1,4 +1,4 @@
-package com.maxsoftlk.osandaportfolio;
+package com.maxsoftlk.meetosanda;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.maxsoftlk.osandaportfolio", appContext.getPackageName());
+        assertEquals("com.maxsoftlk.meetosanda", appContext.getPackageName());
     }
 }
