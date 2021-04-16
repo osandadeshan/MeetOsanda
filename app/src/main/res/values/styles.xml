@@ -7,7 +7,7 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
     <style name="TextAppearance.AppCompat.Widget.ActionBar.Title" parent="android:TextAppearance">
-        <item name="android:textColor">@color/titlecolour</item>
+        <item name="android:textColor">@color/titleColour</item>
         <item name="android:textSize">30sp</item>
     </style>
     <style name="SplashTheme" parent="Theme.AppCompat.NoActionBar">
